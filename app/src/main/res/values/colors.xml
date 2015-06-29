@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="analog_background">#000000</color>
+    <color name="analog_hands">#ffc7c100</color>
+    <color name="analog_hands_min">#ffc7c100</color>
+    <color name="analog_hands_sec">#ffff3000</color>
+    <color name="blue_1">#ff07b4cc</color>
+    <color name="blue_2">#ff002270</color>
+    <color name="analog_red">#ff821d17</color>
+    <color name="red">#ffff3000</color>
+    <color name="red_1">#ffd22700</color>
+    <color name="red_2">#ffb32a1f</color>
+    <color name="red_3">#ff821d17</color>
+    <color name="red_4">#ff581410</color>
+    <color name="orange">#ffe89500</color>
+    <color name="yellow">#ffe5de00</color>
+</resources>

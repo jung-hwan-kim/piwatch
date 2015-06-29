@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="analog_hand_stroke">4dp</dimen>
+    <dimen name="analog_hand_stroke_hour">6dp</dimen>
+    <dimen name="analog_hand_stroke_min">3dp</dimen>
+    <dimen name="analog_hand_stroke_sec">2dp</dimen>
+
+    <dimen name="small">2dp</dimen>
+    <dimen name="medium_small">3dp</dimen>
+    <dimen name="medium">4dp</dimen>
+    <dimen name="medium_large">5dp</dimen>
+    <dimen name="large">6dp</dimen>
+
+</resources>
